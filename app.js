@@ -4,14 +4,14 @@
 ///Edit Under This only
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDq2wSfMgZ9wuRqm15OrrAA5r8AaAuw918",
-  authDomain: "hacking-eaf24.firebaseapp.com",
-  databaseURL: "https://hacking-eaf24.firebaseio.com",
-  projectId: "hacking-eaf24",
-  storageBucket: "hacking-eaf24.appspot.com",
-  messagingSenderId: "203588826064",
-  appId: "1:203588826064:web:06506bc2f6bfc8a89bbfd5",
-  measurementId: "G-XNT2W3ZR45"
+  apiKey: "AIzaSyAcu5nU-lz5JET5wcIbHWxNMyOhLNTQPFg",
+  authDomain: "hacking-1b3c1.firebaseapp.com",
+  databaseURL: "https://hacking-1b3c1.firebaseio.com",
+  projectId: "hacking-1b3c1",
+  storageBucket: "hacking-1b3c1.appspot.com",
+  messagingSenderId: "845285503333",
+  appId: "1:845285503333:web:0af54318aa5e1e8d18718c",
+  measurementId: "G-MW2QYD59HB"
 };
 
      
