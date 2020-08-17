@@ -3,15 +3,15 @@
 
 ///Edit Under This only
 
-var firebaseConfig = {
-  apiKey: "api-key",
-  authDomain: "project-id.firebaseapp.com",
-  databaseURL: "https://project-id.firebaseio.com",
-  projectId: "project-id",
-  storageBucket: "project-id.appspot.com",
-  messagingSenderId: "sender-id",
-  appId: "app-id",
-  measurementId: "G-measurement-id",
+const firebaseConfig = {
+  apiKey: "AIzaSyDq2wSfMgZ9wuRqm15OrrAA5r8AaAuw918",
+  authDomain: "hacking-eaf24.firebaseapp.com",
+  databaseURL: "https://hacking-eaf24.firebaseio.com",
+  projectId: "hacking-eaf24",
+  storageBucket: "hacking-eaf24.appspot.com",
+  messagingSenderId: "203588826064",
+  appId: "1:203588826064:web:06506bc2f6bfc8a89bbfd5",
+  measurementId: "G-XNT2W3ZR45"
 };
 
      
